@@ -1,0 +1,14 @@
+{
+  "name": "cypress-template-project",
+  "version": "1.0.0",
+  "description": "Cypress Template Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
