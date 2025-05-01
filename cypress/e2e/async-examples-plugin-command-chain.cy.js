@@ -4,6 +4,10 @@
 // [URL]
 // ************************************************************************************************
 
+// Import the Cypress command chain plugin
+// This plugin adds a queue list to the Cypress Command Log, showing all commands
+// (finished, current, and enqueued) for the current test.
+import 'cypress-command-chain'
 
 // Cypress Commands and JS Sync Code
 it('Test 1', () => {
